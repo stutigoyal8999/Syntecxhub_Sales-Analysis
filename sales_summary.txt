@@ -1,0 +1,18 @@
+SALES ANALYSIS SUMMARY - SUPERSTORE (2014-2017)
+================================================
+Total Revenue: 2,297,200.86
+Total Profit: 286,397.02
+Profit Margin: 12.47%
+Total Orders: 5,009
+Average Order Value: 458.61
+
+Top Region by Sales: West
+Lowest-Margin Region: Central
+Biggest Loss-Making Sub-Category: Tables (-17,725.48)
+Strongest Month: Nov | Weakest Month: Feb
+
+Recommendations:
+1. Cap discounts at around 20%; 40%+ discounts lose money on average.
+2. Reprice Tables and stop discounting it.
+3. Prepare inventory for Q4 and run promotions in Feb.
+4. Judge regions on margin as well as revenue.
